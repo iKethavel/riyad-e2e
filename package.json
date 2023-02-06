@@ -1,0 +1,10 @@
+{
+  "name": "riyad-e2e-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  },
+  "scripts": {}
+}
